@@ -1,0 +1,32 @@
+[
+  {
+    "id": "n001",
+    "titleEn": "Weekend Mega Sale",
+    "titleAr": "تخفيضات نهاية الأسبوع",
+    "bodyEn": "Up to 30% off on all dairy products this weekend only!",
+    "bodyAr": "خصم يصل إلى 30٪ على جميع منتجات الألبان نهاية الأسبوع فقط!",
+    "imageUrl": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=400",
+    "createdAt": "2026-06-28T09:00:00Z",
+    "read": false
+  },
+  {
+    "id": "n002",
+    "titleEn": "Buy 1 Carton Get 1 Free",
+    "titleAr": "اشترِ كرتون واحصل على آخر مجانًا",
+    "bodyEn": "Special offer on mineral water cartons. Limited stock!",
+    "bodyAr": "عرض خاص على كراتين المياه المعدنية. الكمية محدودة!",
+    "imageUrl": "https://images.unsplash.com/photo-1606168094336-48f8b0c2f1d4?w=400",
+    "createdAt": "2026-06-27T14:30:00Z",
+    "read": false
+  },
+  {
+    "id": "n003",
+    "titleEn": "Fresh Bakery Daily",
+    "titleAr": "مخبوزات طازجة يوميًا",
+    "bodyEn": "Visit aisle 4 for freshly baked bread every morning.",
+    "bodyAr": "زر الممر 4 للخبز الطازج كل صباح.",
+    "imageUrl": "https://images.unsplash.com/photo-1568254183919-78a4f43a2877?w=400",
+    "createdAt": "2026-06-26T07:15:00Z",
+    "read": true
+  }
+]

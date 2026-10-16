@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p001",
+    "barcode": "6291041500213",
+    "nameEn": "Whole Milk 1L",
+    "nameAr": "حليب كامل الدسم 1 لتر",
+    "singlePrice": 1.5,
+    "cartonPrice": 17.0,
+    "unitsPerCarton": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300",
+    "category": "Dairy"
+  },
+  {
+    "id": "p002",
+    "barcode": "6291041500220",
+    "nameEn": "Brown Bread",
+    "nameAr": "خبز أسمر",
+    "singlePrice": 0.8,
+    "cartonPrice": 9.0,
+    "unitsPerCarton": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300",
+    "category": "Bakery"
+  },
+  {
+    "id": "p003",
+    "barcode": "6291041500237",
+    "nameEn": "Mineral Water 1.5L",
+    "nameAr": "مياه معدنية 1.5 لتر",
+    "singlePrice": 0.5,
+    "cartonPrice": 5.5,
+    "unitsPerCarton": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1560023907-5f339617ea30?w=300",
+    "category": "Beverages"
+  },
+  {
+    "id": "p004",
+    "barcode": "6291041500244",
+    "nameEn": "Basmati Rice 5kg",
+    "nameAr": "أرز بسمتي 5 كجم",
+    "singlePrice": 6.0,
+    "cartonPrice": 34.0,
+    "unitsPerCarton": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300",
+    "category": "Grains"
+  },
+  {
+    "id": "p005",
+    "barcode": "6291041500251",
+    "nameEn": "Olive Oil 1L",
+    "nameAr": "زيت زيتون 1 لتر",
+    "singlePrice": 4.5,
+    "cartonPrice": 50.0,
+    "unitsPerCarton": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300",
+    "category": "Pantry"
+  },
+  {
+    "id": "p006",
+    "barcode": "6291041500268",
+    "nameEn": "Eggs (30pcs)",
+    "nameAr": "بيض 30 حبة",
+    "singlePrice": 3.0,
+    "cartonPrice": 33.0,
+    "unitsPerCarton": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=300",
+    "category": "Dairy"
+  }
+]
